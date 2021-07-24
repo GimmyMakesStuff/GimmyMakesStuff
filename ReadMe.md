@@ -1,5 +1,5 @@
 # Hello World
 
-```Coding languages Known: Java, JavaScript, Minecraft (Datapacks), Batch```
+Coding languages Known: Java, JavaScript, Minecraft (Datapacks), Batch
 
-```Contacts: Discord (@GimmyIsGood#1234)```
+Contacts: Discord (@GimmyIsGood#1234)
